@@ -1,0 +1,15 @@
+{
+  "accentColor": "#03b300",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "cssTheme": "",
+  "interfaceFontFamily": "Segoe UI",
+  "textFontFamily": "Segoe UI",
+  "showViewHeader": true,
+  "showRibbon": true
+}

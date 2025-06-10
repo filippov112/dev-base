@@ -1,40 +1,29 @@
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+# Игнорируем кеш и временные файлы
+.trash/
+*.tmp
 
-# Visual Studio
-.vs/
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
+# Игнорируем системные файлы (macOS)
+.DS_Store
 
-# User-specific files
-*.rsuser
-*.userprefs
+# Игнорируем файлы блокировки (если используются)
+*.lock
 
-# Mono auto-generated files
-mono_crash.*
+# Игнорируем скрытые файлы (кроме .obsidian)
+.*
+!.obsidian/
+!.gitignore
 
-# Build results
-*.dll
-*.exe
-*.pdb
-
-# NuGet
-*.nupkg
-*.snupkg
-packages/
-
-# Environment
-.env
-*.log
+# Исключаем папку .obsidian, но сохраняем настройки и плагины
+.obsidian/*
+!.obsidian/plugins/
+!.obsidian/themes/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/core-plugins-migration.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+!.obsidian/snippets/
+!.obsidian/snippets/*
+!.obsidian/workspace

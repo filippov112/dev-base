@@ -1,0 +1,13 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":two:",
+    ":secret:",
+    ":100:",
+    ":star2:",
+    ":star:"
+  ]
+}

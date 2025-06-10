@@ -1,0 +1,10 @@
+{
+    "id": "custom-sort-plugin",
+    "name": "Custom Sort Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "A plugin to sort files by a numeric index at the beginning of the file content.",
+    "author": "Your Name",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": true
+}

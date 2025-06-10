@@ -1,0 +1,28 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "heap/_files",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "spellcheck": false,
+  "livePreview": false,
+  "userIgnoreFilters": [
+    "heap/_files/",
+    "heap/_TEMPLATES/",
+    "temp/"
+  ],
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": false,
+  "autoConvertHtml": true,
+  "strictLineBreaks": false
+}

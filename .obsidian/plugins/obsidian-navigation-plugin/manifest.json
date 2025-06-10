@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-navigation-plugin",
+    "name": "Navigation Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "A plugin to navigate between notes in the same folder.",
+    "author": "Ilya Filippov",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": true
+}
