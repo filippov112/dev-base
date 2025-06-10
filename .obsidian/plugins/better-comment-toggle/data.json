@@ -1,0 +1,40 @@
+{
+  "overrideAppearance": false,
+  "commentStyle": "custom",
+  "customCommentStart": "<!--",
+  "customCommentEnd": "-->",
+  "dropCursor": false,
+  "appearance": {
+    "showBackground": false,
+    "backgroundColor": "#191919",
+    "color": "#565E67",
+    "fontTheme": "default",
+    "customFont": "initial",
+    "italic": false,
+    "weight": 400,
+    "showOutline": false,
+    "outlineColor": "#FFFFFF"
+  },
+  "customLanguages": [
+    {
+      "regex": "sql",
+      "commentStart": "/*",
+      "commentEnd": "*/"
+    },
+    {
+      "regex": "python",
+      "commentStart": "#",
+      "commentEnd": ""
+    },
+    {
+      "regex": "csharp",
+      "commentStart": "//",
+      "commentEnd": ""
+    },
+    {
+      "regex": "html",
+      "commentStart": "<!--",
+      "commentEnd": "-->"
+    }
+  ]
+}

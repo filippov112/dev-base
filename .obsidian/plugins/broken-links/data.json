@@ -1,0 +1,28 @@
+{
+  "version": "1.2.2",
+  "previousVersion": "1.0.0",
+  "groupBy": 0,
+  "expandedFolderItems": [
+    "Development",
+    "Development/1. Languages",
+    "Development/1. Languages/C-sharp",
+    "Development/1. Languages/C-sharp/3. Асинхронность",
+    "Development/1. Languages/C-sharp/3. Асинхронность/Task.WhenAll, Task.WhenAny.md",
+    "Development/4. Knowledge",
+    "Development/4. Knowledge/Базы данных",
+    "Development/4. Knowledge/Базы данных/SQL Справочник",
+    "Development/4. Knowledge/Базы данных/SQL Справочник/SQL Справочник.md",
+    "Development/4. Knowledge/Базы данных/Проектирование БД.md"
+  ],
+  "expandedFileItems": [],
+  "expandedLinkItems": [],
+  "folderSort": 0,
+  "fileSort": 3,
+  "linkSort": 3,
+  "linkFilter": {
+    "filterString": "",
+    "matchCase": false
+  },
+  "ignoredFolders": [],
+  "consolidateLinks": false
+}
