@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 # <font color="#00b0f0">C#:</font> AutoResetEvent
 
 Механизм синхронизации в C#, используемый для управления доступом потоков к ресурсам.

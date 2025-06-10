@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 # <font color="#00b0f0">C#:</font> ThreadPool
 
 **Пул потоков** (Thread Pool) — механизм переиспользования потоков.

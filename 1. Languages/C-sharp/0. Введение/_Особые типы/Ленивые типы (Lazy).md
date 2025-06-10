@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp
 
 # Ленивые типы (Lazy) в C#
 

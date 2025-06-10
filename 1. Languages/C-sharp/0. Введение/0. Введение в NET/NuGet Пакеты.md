@@ -1,4 +1,4 @@
-#Csharp
+#lang #lang-c_sharp
 
 # NuGet Пакеты в C#
 

@@ -1,4 +1,4 @@
-#devops #FileServices 
+  
 
 ## FTP протокол
 >FTP (File Transfer Protocol) - это сетевой протокол, предназначенный для передачи файлов между компьютерами. 

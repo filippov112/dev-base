@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp
 
 # Тестирование Linux-приложений на Windows
 

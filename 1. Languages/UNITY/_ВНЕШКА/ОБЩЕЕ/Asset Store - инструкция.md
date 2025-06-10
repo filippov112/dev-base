@@ -1,5 +1,4 @@
-#Unity #Modules
-
+#lang #lang-unity 
 Ресурсы скачиваемые через оф.магазин устанавливаются в Unity через окно Package Manager.
 
 Алгоритм 

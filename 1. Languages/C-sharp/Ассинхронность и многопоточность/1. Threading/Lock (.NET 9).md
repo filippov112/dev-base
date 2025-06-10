@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 # <font color="#00b0f0">C#:</font> Lock (.NET 9)
 
 Более гибкий и производительный механизм синхронизации потоков по сравнению с `lock (obj)`.

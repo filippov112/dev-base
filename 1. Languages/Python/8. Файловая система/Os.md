@@ -1,4 +1,4 @@
-#Python #Libraries 
+#lang #lang-python  
 
 # Библиотека Os в Python
 

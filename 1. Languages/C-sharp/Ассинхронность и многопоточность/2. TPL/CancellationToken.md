@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 # <font color="#00b0f0">C#:</font> CancellationToken
 
 **CancellationToken** - структура прерывания задач. 

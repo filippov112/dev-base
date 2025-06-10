@@ -1,4 +1,4 @@
-#Python #Libraries
+#lang #lang-python 
 
 # Модуль Time в Python
 >Модуль `time` в Python предоставляет набор функций для работы со временем. Он используется для:

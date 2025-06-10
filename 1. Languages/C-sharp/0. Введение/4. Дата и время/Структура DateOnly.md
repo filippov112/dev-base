@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 
 # Структура DateOnly в C# (.NET 6+)
 

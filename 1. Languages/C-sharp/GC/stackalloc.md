@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 # <font color="#00b0f0">C#:</font> stackalloc
 
 - **Ключевое слово `stackalloc`** - выделяет память под **массив в стеке**.

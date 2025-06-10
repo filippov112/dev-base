@@ -1,4 +1,4 @@
-#Python #Libraries
+#lang #lang-python 
 
 ## Инструкция по использованию line_profiler в Python
 

@@ -1,4 +1,4 @@
-#Unity 
+#lang #lang-unity 
 
 # ScriptableObject в Unity
 

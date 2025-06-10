@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 
 # Task.WhenAll и Task.WhenAny в C#
 

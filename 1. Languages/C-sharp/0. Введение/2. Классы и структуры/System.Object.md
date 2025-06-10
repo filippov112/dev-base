@@ -1,4 +1,4 @@
-#Csharp
+#lang #lang-c_sharp
 
 # Класс System.Object в C#
 

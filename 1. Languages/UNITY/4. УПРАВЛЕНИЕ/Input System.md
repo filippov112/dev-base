@@ -1,4 +1,4 @@
-#Unity #Modules 
+#lang #lang-unity
 
 Источники:
 https://www.youtube.com/watch?v=ZHOWqF-b51k
@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=ZHOWqF-b51k
 InputReading: https://github.com/UnityTechnologies/open-project-1/blob/main/UOP1_Project/Assets/Scripts/Input/InputReader.cs
 
 # Input System
-Более новая система контроля ввода относительно старой библиотеки [Input](1.%20Languages/UNITY/4.%20УПРАВЛЕНИЕ/Input.md).
+Более новая система контроля ввода относительно старой библиотеки [Input](1.%20Languages/Unity/4.%20УПРАВЛЕНИЕ/Input.md).
 
 #### Настройка
 1. Устанавливаем пакет **Input System** и включаем его в *Project Settings -> Player -> Other -> Configuration -> Active Input Handling*

@@ -1,4 +1,3 @@
-#hotkeys
 
 # Visual Studio Code:
 

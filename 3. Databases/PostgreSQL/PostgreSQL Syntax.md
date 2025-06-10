@@ -1,4 +1,4 @@
-#db #sql
+ 
 # <font color="#00b0f0">DB:</font> PostgreSQL Syntax
 
 ---

@@ -1,4 +1,4 @@
-#db #sql
+ 
 # <font color="#00b0f0">DB:</font> MySQL Syntax
 ---
 ### <font color="#ffff00">DDL (`CREATE`, `ALTER`, `DROP`, `TRUNCATE`, и `RENAME`)</font>

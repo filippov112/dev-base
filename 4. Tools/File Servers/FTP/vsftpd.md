@@ -1,4 +1,4 @@
-#devops #FileServices 
+  
 
 # Установка и настройка vsftpd на Linux:
 

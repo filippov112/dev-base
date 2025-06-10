@@ -1,4 +1,4 @@
-#Python #sqlite
+#lang #lang-python 
 
 # Бэкап таблиц и метод `iterdump`
 

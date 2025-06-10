@@ -1,4 +1,4 @@
-#Unity 
+#lang #lang-unity 
 
 1. Указываем в настройках проекта нашу организацию (`Services - Ads`) и создаем **Project ID**
 2. Включаем там же рекламу (off -> on) и обновляем пакет (install latest version).

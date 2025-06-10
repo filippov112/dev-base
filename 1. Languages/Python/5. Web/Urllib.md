@@ -1,4 +1,4 @@
-#Python #Libraries
+#lang #lang-python 
 
 ## Библиотека Urllib в Python
 >Библиотека **Urllib** в Python предоставляет набор инструментов для работы с URL-адресами и веб-запросами. 

@@ -1,4 +1,4 @@
-#devops #Docker
+ 
 
 # Docker в жизни
 

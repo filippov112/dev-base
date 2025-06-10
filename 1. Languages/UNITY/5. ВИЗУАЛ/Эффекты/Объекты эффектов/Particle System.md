@@ -1,4 +1,4 @@
-#Unity
+#lang #lang-unity
 
 Обладает одноименнным компонентом Particle System
 ### Примечания

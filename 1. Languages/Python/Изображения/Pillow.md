@@ -1,4 +1,4 @@
-#Python #Libraries
+#lang #lang-python 
 
 # Pillow в Python
 

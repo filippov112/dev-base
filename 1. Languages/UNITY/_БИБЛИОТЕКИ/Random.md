@@ -1,4 +1,4 @@
-#Unity
+#lang #lang-unity
 
 [System.Random](1.%20Languages/C-sharp/0.%20Введение/_Библиотеки/Random.md)
 

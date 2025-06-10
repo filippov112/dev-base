@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 
 # Структура TimeOnly в C# (.NET 6+)
 

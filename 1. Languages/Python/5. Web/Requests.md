@@ -1,4 +1,4 @@
-#Libraries #Python 
+ #lang #lang-python 
 
 # Requests в Python
 

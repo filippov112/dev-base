@@ -1,4 +1,4 @@
-#Unity  
+#lang #lang-unity  
 
 > [!note] Чтобы обращаться к **TextMeshPro** из скрипта, нужен параметр **TextMeshProUGUI**.
 
@@ -9,6 +9,6 @@
 
 - Rich Text (Extra Settings) - отвечает за восприятие html-разметки.
 
-- [Добавление шрифтов](1.%20Languages/UNITY/5.%20UI/TextMeshPro/Добавление%20шрифтов.md)
-- [Ошибки TextMeshPro](1.%20Languages/UNITY/5.%20UI/TextMeshPro/Ошибки%20TextMeshPro.md)
-- [Подгонка текстовых блоков](1.%20Languages/UNITY/5.%20UI/TextMeshPro/Подгонка%20текстовых%20блоков.md)
+- [Добавление шрифтов](1.%20Languages/Unity/5.%20UI/TextMeshPro/Добавление%20шрифтов.md)
+- [Ошибки TextMeshPro](1.%20Languages/Unity/5.%20UI/TextMeshPro/Ошибки%20TextMeshPro.md)
+- [Подгонка текстовых блоков](1.%20Languages/Unity/5.%20UI/TextMeshPro/Подгонка%20текстовых%20блоков.md)

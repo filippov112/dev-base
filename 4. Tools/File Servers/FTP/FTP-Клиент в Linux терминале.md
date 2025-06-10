@@ -1,4 +1,4 @@
-#devops #FileServices
+ 
 
 # FTP-Клиент в Linux терминале
 

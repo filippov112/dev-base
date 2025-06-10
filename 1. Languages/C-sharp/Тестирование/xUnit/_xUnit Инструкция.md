@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 
 # xUnit Инструкция в C#
 

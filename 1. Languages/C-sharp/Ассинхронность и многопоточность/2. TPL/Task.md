@@ -1,4 +1,4 @@
-#Csharp 
+#lang #lang-c_sharp 
 # <font color="#00b0f0">C#:</font> Task
 
 Класс `Task` - описывает отдельную задачу, которая запускается асинхронно в одном из потоков [ThreadPool](1.%20Languages/C-sharp/Ассинхронность%20и%20многопоточность/2.%20TPL/ThreadPool.md). 

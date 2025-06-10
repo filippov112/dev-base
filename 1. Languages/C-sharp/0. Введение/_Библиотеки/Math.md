@@ -1,4 +1,4 @@
-#Csharp #Libraries
+#lang #lang-c_sharp
 
 # Math в C#
 

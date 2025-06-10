@@ -1,4 +1,4 @@
-#Unity #DI
+#lang #lang-unity 
 
 # Zenject
 [Официальная документация Zenject](https://github.com/modesttree/Zenject)

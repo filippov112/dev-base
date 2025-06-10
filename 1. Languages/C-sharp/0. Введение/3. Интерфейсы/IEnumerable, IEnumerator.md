@@ -1,4 +1,4 @@
-#Csharp
+#lang #lang-c_sharp
 
 # Интерфейсы - IEnumerable, IEnumerator в C#
 

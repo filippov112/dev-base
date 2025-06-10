@@ -1,4 +1,4 @@
-#Unity
+#lang #lang-unity
 
 https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html
 ## Инструкция по работе с постобработкой в Unity
@@ -7,7 +7,7 @@ https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html
 Для использования постпроцессинга требуется установить **Post Processing Stack** v2 из Unity Asset Store или через Package Manager.
 
 1. **Установить Post Processing Stack**
-[Настройка света](1.%20Languages/UNITY/5.%20ВИЗУАЛ/Свет/Настройка%20света.md)
+[Настройка света](1.%20Languages/Unity/5.%20ВИЗУАЛ/Свет/Настройка%20света.md)
 > [!note] Следующий пункт пропускается, если помимо постобработки настраивается свет. Все эффекты настраиваются в компоненте **Volume**.
 > 2. **Создание Post Processing Volume**:
 >    - Создайте новый пустой объект в вашей сцене и назовите его `Post Processing Volume`.

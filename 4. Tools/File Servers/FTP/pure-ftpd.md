@@ -1,4 +1,4 @@
-#devops #FileServices
+ 
 
 # Установка и настройка pure-ftpd на Linux:
 

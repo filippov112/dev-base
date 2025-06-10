@@ -1,4 +1,4 @@
-#Csharp
+#lang #lang-c_sharp
 
 # JSON в C#
 
@@ -159,6 +159,6 @@ Name: Tom   Age: 0
 
 ### Внутренние ссылки
 [3. Модификаторы доступа](1.%20Languages/C-sharp/0.%20Введение/1.%20Области%20видимости/3.%20Модификаторы%20доступа.md)
-[JsonUtility](1.%20Languages/UNITY/_БИБЛИОТЕКИ/JsonUtility.md)
+[JsonUtility](1.%20Languages/Unity/_БИБЛИОТЕКИ/JsonUtility.md)
 
 ### Внешние ссылки

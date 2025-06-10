@@ -1,4 +1,4 @@
-#csharp #Libraries
+#lang #lang-c_sharp
 
 # Random в C#
 
