@@ -1,7 +1,6 @@
 #lang #lang-c_sharp
 
-# Тестирование Linux-приложений на Windows
-
+---
 **WSL** (Windows Subsystem for Linux) - позволяет разработчикам запускать окружение GNU/Linux (и ряд приложений Linux). // Windows 10 (2004)+
 
 ### Установка:

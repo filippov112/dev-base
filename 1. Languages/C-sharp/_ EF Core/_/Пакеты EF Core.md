@@ -1,6 +1,6 @@
 #lang #lang-c_sharp
-# <font color="#00b0f0">EF Core:</font> Пакеты
 
+---
 `dotnet add package`
 
 Основные:
@@ -16,5 +16,3 @@
 - `Microsoft.EntityFrameworkCore.Proxies` - lazy loading (ленивую загрузку) через динамические прокси-объекты.
 - `Microsoft.EntityFrameworkCore.Analyzers` - статический анализ кода EF.
 - `Microsoft.EntityFrameworkCore.Relational` - доп. возможности реляционных баз.
-
-### Outer links:

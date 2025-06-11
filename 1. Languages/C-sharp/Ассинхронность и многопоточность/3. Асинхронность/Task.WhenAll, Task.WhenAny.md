@@ -1,7 +1,6 @@
 #lang #lang-c_sharp 
 
-# Task.WhenAll и Task.WhenAny в C#
-
+---
 Аналоги WaitAny, WaitAll [Task](1.%20Languages/C-sharp/Ассинхронность%20и%20многопоточность/2.%20TPL/Task.md), но с поддержкой `await`. 
 
 `Task.WhenAny()` - дожидается выполнения любой из задач из массива.

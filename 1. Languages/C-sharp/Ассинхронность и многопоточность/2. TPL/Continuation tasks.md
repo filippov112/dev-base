@@ -1,6 +1,6 @@
 #lang #lang-c_sharp 
-# <font color="#00b0f0">C#:</font> Continuation tasks
 
+---
 **Задачи продолжения (continuation task)** - средство связывания задач в цепочки выполнения.
 
 - Метод `ContinueWith` в качестве параметра принимает делегат `Action<Task>`, где `Task` - ссылка на предыдущую задачу.

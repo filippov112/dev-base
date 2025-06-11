@@ -1,6 +1,6 @@
 #lang #lang-c_sharp
-# <font color="#00b0f0">EF Core:</font> Database.Migrate
 
+---
  Миграции в `runtime` - `Database.Migrate()` / `Database.MigrateAsync()`
  
 ```csharp
@@ -10,5 +10,3 @@ using (ApplicationContext db = new ApplicationContext())
 	await db.Database.MigrateAsync(); // асинхронный метод для миграции
 }
 ```
-
-### Outer links:

@@ -1,7 +1,6 @@
 #lang #lang-c_sharp  
 
-# VSCode Unit-testing
-
+---
 1. **Открываем основное решение.**
 2. **Создаем проект модульного теста с именем *SomethingTest*.**
 	```bash

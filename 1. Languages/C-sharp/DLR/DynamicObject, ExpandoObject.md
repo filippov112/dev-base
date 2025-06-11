@@ -1,6 +1,6 @@
 #lang #lang-c_sharp 
-# <font color="#00b0f0">C#:</font> DynamicObject, ExpandoObject
 
+---
 ### **<font color="#ffff00">ExpandoObject</font>**
 динамический объект, расширяющий функционал на ходу.
 ```csharp

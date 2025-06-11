@@ -1,6 +1,6 @@
 #lang #lang-c_sharp
-# Управление конфигурацией в `appsettings.json`
 
+---
 1. Ставим пакет `Microsoft.Extensions.Configuration.Json`
 
 ```json

@@ -1,6 +1,6 @@
 #lang #lang-c_sharp
-# <font color="#00b0f0">EF Core:</font> MongoClient vs DbContextOptionsBuilder
 
+---
 Подключение к MongoDB через **EF Core** с использованием `DbContextOptionsBuilder` и через **MongoDB.Driver** с использованием `MongoClient` — это два разных подхода, которые имеют свои особенности, преимущества и недостатки. 
 - **EF Core с `DbContextOptionsBuilder`** подходит для простых сценариев и интеграции с другими реляционными базами данных.
 - **`MongoClient`** предоставляет полный контроль над MongoDB и рекомендуется для сложных сценариев, где важны производительность и гибкость.
@@ -124,6 +124,3 @@ var people = await collection.Find(p => p.Age > 25).ToListAsync();
 - Вы хотите максимальной производительности.
 - Вы готовы писать больше кода для работы с базой данных.
 - Вам нужны нативные запросы и агрегации.
-
----
-### Outer links:

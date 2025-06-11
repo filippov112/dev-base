@@ -1,7 +1,6 @@
 #lang #lang-c_sharp 
 
-# Структура DateOnly в C# (.NET 6+)
-
+---
 ```csharp
 DateOnly someDate = new DateOnly() // 01.01.0001
 DateOnly someDate = new DateOnly(int year, int month, int day)

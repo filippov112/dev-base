@@ -1,7 +1,6 @@
 #lang #lang-c_sharp
 
-# EnsureCreated, EnsureDeleted, CanConnect
-
+---
 Помогают контролировать наличие, создание и удаление БД в ключевые моменты программы (запуск, завершение работы, и др.)
 
 - Создание базы - `Database.EnsureCreated()` / `Database.EnsureCreatedAsync()` (`true` если база создана с 0) 

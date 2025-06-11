@@ -1,6 +1,6 @@
-№1 
-# Введение в ASP.NET MVC
+#lang #lang-c_sharp
 
+---
 #### **Шаблон MVC**
 
 **<font color="#ffff00">MVC</font>** (Model-View-Controller) - архитектурный шаблон, который разделяет приложение на три взаимосвязанные части:
