@@ -1,7 +1,6 @@
-#example
+#example #tool-docker
 
-# Установка Docker compose на Linux
-
+---
 #### 1. **Docker Engine**
 Docker Compose требует наличия Docker Engine на вашей системе. 
 Если у вас уже установлен Docker Engine, можете перейти к следующему шагу. 

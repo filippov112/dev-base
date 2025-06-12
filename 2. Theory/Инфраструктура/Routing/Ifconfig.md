@@ -1,3 +1,6 @@
+ #theory #theory-enterprice
+ 
+---
 замена ip до ребута:
 ifconfig eth0 192.168.50.50
 

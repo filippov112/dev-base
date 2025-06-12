@@ -1,7 +1,7 @@
 #lang #lang-unity
 
+---
 https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html
-## Инструкция по работе с постобработкой в Unity
 
 Постобработка в Unity позволяет улучшить визуальное качество игры, добавляя эффекты, такие как размытие, цветокоррекция, зернистость и т.д. 
 Для использования постпроцессинга требуется установить **Post Processing Stack** v2 из Unity Asset Store или через Package Manager.

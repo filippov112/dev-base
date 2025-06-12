@@ -1,7 +1,6 @@
-#lang #lang-python 
+#lang #lang-python #flask
 
-# Обработка ошибок, redirect abort
-
+---
 ## Обработчики ошибок
 
 - `@app.errorhandler(404)` - декоратор обработчика для соответствующего кода ошибки (в скобках).

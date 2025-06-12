@@ -1,5 +1,5 @@
-
-# <font color="#00b0f0">MS SQL:</font> MS SQL Server Syntax
+#db #db-mssql
+ 
 ---
 ### <font color="#ffff00">DDL (`CREATE`, `ALTER`, `DROP`, `TRUNCATE`, и `RENAME`)</font>
 ##### Таблицы

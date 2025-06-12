@@ -1,3 +1,6 @@
+ #theory #theory-enterprice
+ 
+---
 ### Форвардинг пакетов
 \* по умолчанию отключен
 Включается либо `echo 1 > /proc/sys/net/ipv4/ip_forward` - разово,

@@ -1,6 +1,6 @@
 #lang #lang-unity 
 
-# Zenject
+---
 [Официальная документация Zenject](https://github.com/modesttree/Zenject)
 
 **Zenject** — это фреймворк для *Dependency Injection (DI)* в Unity, который помогает управлять зависимостями объектов и упрощает тестирование и масштабирование приложений.

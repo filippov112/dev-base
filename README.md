@@ -22,7 +22,6 @@
 	- Kotlin: `kotlin`
 	- Python: `python`
 	- Unity: `unity`
-	- Vue.js: `vue_js` 
 
 ##### **Теоритические сведения** - `#theory`
 - Разделы:
@@ -32,12 +31,13 @@
 	- Машинное обучение: `ml`
 	- Менеджмент: `management`
 	- Программирование: `dev`
+	- Проектирование: `sys_design`
 	- Развертывание: `deploy`
 	- Тестирование: `testing`
 	- Big Data: `bigdata`
 	- Blockchain: `blockchain`
 	- Computer Science: `c_science`
-	- IT продукты: `it_product`
+	- Decision Support Systems: `dss`
 
 ##### **Базы данных** - `#db`
 - Разделы:

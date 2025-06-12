@@ -1,7 +1,6 @@
 #lang #lang-python 
 
-# Command
-
+---
 ```sql
 PRAGMA foreign_keys = ON;
 drop table IF EXISTS [stack.OrderItems];

@@ -1,6 +1,6 @@
-#example
-# <font color="#00b0f0">Практика:</font> ASP, авторизация на основе Claims
+#example #aspnet
 
+___
 Допустим, у нас есть следующий класс, который представляет пользователя:
 ```csharp
 record class Person(string Email, string Password, string City, string Company);

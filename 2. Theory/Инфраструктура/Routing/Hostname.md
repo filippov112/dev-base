@@ -1,3 +1,6 @@
+ #theory #theory-enterprice
+ 
+---
 имя машины (идет после @)
 
 можно узнать имя через hostname

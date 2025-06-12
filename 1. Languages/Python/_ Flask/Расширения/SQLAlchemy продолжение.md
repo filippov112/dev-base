@@ -1,7 +1,6 @@
-#lang #lang-python 
+#lang #lang-python #flask
 
-# SQLAlchemy: Продолжение
-
+---
 ## Выборка записей из таблиц
 
 - `Users.query.all()` — возвращает все записи.

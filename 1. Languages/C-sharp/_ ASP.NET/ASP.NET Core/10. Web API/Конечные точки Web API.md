@@ -1,4 +1,4 @@
-#lang #lang-c_sharp 
+#lang #lang-c_sharp #aspnet
 
 ---
 > **Web API** - способ построения приложения в стиле *REST* (Representation State Transfer или "передача состояния представления"). 

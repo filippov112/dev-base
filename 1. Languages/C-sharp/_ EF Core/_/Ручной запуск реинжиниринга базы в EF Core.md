@@ -1,4 +1,4 @@
-#lang #lang-c_sharp
+#lang #lang-c_sharp #efcore
 
 ---
 **Reverse Engineering** базы - автоматическая генерация таблиц и контекста данных по существующей БД.

@@ -1,7 +1,6 @@
-#example 
+#example #aspnet
 
-# 1. Serilog + ASP.NET в C#
-
+___
 Настроить логирование через Serilog в ASP.NET можно следующим образом:
 
 1. Установить пакеты

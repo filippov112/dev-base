@@ -1,6 +1,5 @@
+#db #db-postgre
  
-# <font color="#00b0f0">DB:</font> PostgreSQL Syntax
-
 ---
 ### <font color="#ffff00">DDL (`CREATE`, `ALTER`, `DROP`, `TRUNCATE`, и `RENAME`)</font>
 ##### Таблицы

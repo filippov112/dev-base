@@ -1,7 +1,6 @@
 #lang #lang-python 
 
-### Свойства классов `property`
-
+---
 #### Использование через методы (`property`)
 
 ```python

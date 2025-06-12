@@ -1,5 +1,6 @@
-#example
+#example #aspnet
 
+___
 #### Установка и настройка backend
 
 1. Установить .NET SDK.

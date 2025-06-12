@@ -1,7 +1,6 @@
+ #theory #theory-database
 
-
-# NoSQL Системы
-
+---
 ### Плюсы и минусы
 <font color="#00b050">- Гибкость схемы</font>
 <font color="#00b050">- Горизонтальное масштабирование</font>

@@ -1,6 +1,6 @@
-
-# REST
-
+#theory #theory-dev
+ 
+---
 **REST** (Representational State Transfer) — архитектурный стиль разработки веб-приложений, определяющий способ взаимодействия клиента и сервера. 
 **REST API** — API на принципах REST. 
 **RESTful API** — REST API, который правильно и полноценно соблюдает все принципы REST. 

@@ -1,3 +1,6 @@
+ #theory #theory-enterprice
+ 
+---
 route  — показать маршрутизацию
 
 route add  — добавить маршрут

@@ -1,7 +1,6 @@
- 
+#tool #tool-file_server
 
-# FTP на Windows:
-
+---
 В Windows 10 FTP-сервер по умолчанию отключен.
 
 #### Включение службы:

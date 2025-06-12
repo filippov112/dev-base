@@ -1,4 +1,6 @@
-
+ #theory #theory-enterprice
+ 
+---
 >[!warning] Внимание! Устаревший инструмент. Заменен  на [Nftables](2.%20Theory/Инфраструктура/Routing/Nftables.md)
 
 >[!note] Утилита работает только из под root или sudo.

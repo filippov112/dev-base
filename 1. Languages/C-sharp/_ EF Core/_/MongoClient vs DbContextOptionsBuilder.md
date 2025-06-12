@@ -1,4 +1,4 @@
-#lang #lang-c_sharp
+#lang #lang-c_sharp #efcore
 
 ---
 Подключение к MongoDB через **EF Core** с использованием `DbContextOptionsBuilder` и через **MongoDB.Driver** с использованием `MongoClient` — это два разных подхода, которые имеют свои особенности, преимущества и недостатки. 

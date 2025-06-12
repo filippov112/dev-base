@@ -1,7 +1,6 @@
- 
+#tool #tool-file_server
 
-# Установка и настройка pure-ftpd на Linux:
-
+---
 1. Установка и запуск
 ```bash
 sudo apt update && sudo apt upgrade

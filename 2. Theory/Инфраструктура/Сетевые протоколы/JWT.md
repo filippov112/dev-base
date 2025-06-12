@@ -1,6 +1,6 @@
-
-# JWT
-
+ #theory #theory-enterprice
+ 
+---
 ### Что такое JWT?
 
 JWT (JSON Web Token) — это способ безопасной передачи информации между сторонами в формате JSON. 

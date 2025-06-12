@@ -1,4 +1,4 @@
-#lang #lang-c_sharp
+#lang #lang-c_sharp #efcore
 
 ---
  Миграции в `runtime` - `Database.Migrate()` / `Database.MigrateAsync()`

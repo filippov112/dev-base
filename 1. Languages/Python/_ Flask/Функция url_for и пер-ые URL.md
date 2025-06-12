@@ -1,7 +1,6 @@
-#lang #lang-python 
+#lang #lang-python #flask
 
-# Функция `url_for` и пер-ые URL
-
+---
 Импортируем необходимые библиотеки:
 
 ```python

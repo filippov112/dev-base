@@ -1,6 +1,6 @@
-
-# <font color="#00b0f0">Python:</font> Библиотеки backend-разработчика
-
+ #lang #lang-python 
+ 
+---
 ### **1. Веб-фреймворки (основные)**
 - **[Django](https://www.djangoproject.com/)** – высокоуровневый фреймворк для быстрой разработки (ORM, админка, аутентификация).  
 - **[Django REST Framework (DRF)](https://www.django-rest-framework.org/)** – фреймворк для создания RESTful API на Django.  

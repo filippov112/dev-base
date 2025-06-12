@@ -1,7 +1,6 @@
-#lang #lang-python  
+#lang #lang-python #flask 
 
-# Формы для сайта через WTF
-
+---
 ## АВТОРИЗАЦИЯ
 
 ```python

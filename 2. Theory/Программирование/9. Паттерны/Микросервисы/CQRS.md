@@ -1,7 +1,6 @@
+#theory #theory-dev
  
-
-# CQRS
-
+---
 ***CQRS (Command Query Responsibility Segregation)*** — это разделение команд (изменение данных) и запросов (чтение данных) на разные модели.
 
 **Как?**  

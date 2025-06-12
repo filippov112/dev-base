@@ -1,6 +1,6 @@
-#example
-# 1. Интеграция Swagger в ASP
+#example #aspnet
 
+___
 Для интеграции Swagger в **ASP.NET MVC (Core)** используется библиотека _Swashbuckle.AspNetCore_. Порядок действий:
 
 1. **Установить пакет**  

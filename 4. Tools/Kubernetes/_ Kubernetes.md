@@ -1,7 +1,6 @@
-  
+#tool #tool-k8s
 
-# Kubernetes
-
+---
 1. **[1. Теория](4.%20Tools/Kubernetes/1.%20Теория.md)**
 2. **Работа с основными сущностями Kubernetes**
 	1. **[2.1. Pod](4.%20Tools/Kubernetes/2.1.%20Pod.md)**

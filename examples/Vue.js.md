@@ -1,4 +1,6 @@
-#example
+#example #lang-vuejs 
+
+---
 1. Установить Node.js и npm.
 2. Создать проект Vue:
     ```sh

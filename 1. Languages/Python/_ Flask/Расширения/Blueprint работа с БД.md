@@ -1,7 +1,6 @@
-#lang #lang-python 
+#lang #lang-python #flask
 
-# Blueprint: работа с БД
-
+---
 ```python
 db = None
 

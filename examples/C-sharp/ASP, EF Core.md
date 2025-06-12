@@ -1,5 +1,6 @@
-#example
+#example #aspnet #efcore
 
+___
 1. **Установить глобальный инструмент EF Core**  
     ```sh
     dotnet tool install --global dotnet-ef

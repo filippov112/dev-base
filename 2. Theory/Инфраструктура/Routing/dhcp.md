@@ -1,3 +1,6 @@
+ #theory #theory-enterprice
+ 
+---
 динамическое получение адреса
 
 клиент  dhcp-client (утилита dhclient)

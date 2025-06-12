@@ -1,7 +1,6 @@
-#lang #lang-python 
+#lang #lang-python #flask
 
-# WTForms для работы с формами сайта
-
+---
 Flask-WTF устанавливается с помощью команды:
 
 ```bash

@@ -1,7 +1,6 @@
- 
+ #theory #theory-database
 
-# Ликбез по SQL
-
+---
 ### Классификация команд
 
 1. DDL - Data Definition Language (язык определения данных)

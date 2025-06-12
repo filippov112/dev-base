@@ -1,6 +1,6 @@
-#example
-# Google oAuth 2.0 + ASP.NET Identity
+#example #aspnet
 
+___
 Регистрация и авторизация через Google в ASP.NET WebAPI, через **OAuth 2.0** и **Google Authentication** в **ASP.NET Identity**.
 
 ---

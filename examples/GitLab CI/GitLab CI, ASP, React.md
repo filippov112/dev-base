@@ -1,4 +1,6 @@
-#example
+#example #theory-enterprice 
+
+---
 ### 1. Создание репозиториев в GitLab
 
 1. **Войдите в GitLab**:

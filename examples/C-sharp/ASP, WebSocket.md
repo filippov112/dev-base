@@ -1,7 +1,6 @@
-#example
+#example #aspnet
 
-# 7. ASP + WebSocket в ASP.NET Core
-
+___
 В ASP.NET MVC можно добавить поддержку WebSocket следующим образом:
 
 ### 1. Включить поддержку WebSocket в `Program.cs`
