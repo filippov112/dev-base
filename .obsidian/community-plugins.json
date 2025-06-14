@@ -15,5 +15,6 @@
   "open-vscode",
   "better-export-pdf",
   "obsidian-folder-focus-mode",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-regex-replace"
 ]

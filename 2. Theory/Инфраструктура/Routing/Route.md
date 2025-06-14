@@ -1,8 +1,0 @@
- #theory #theory-enterprice
- 
----
-route  — показать маршрутизацию
-
-route add  — добавить маршрут
-
-route del  — удалить маршрут

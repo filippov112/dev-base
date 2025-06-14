@@ -1,8 +1,0 @@
- #theory #theory-enterprice
- 
----
-имя машины (идет после @)
-
-можно узнать имя через hostname
-хранится в /etc/hostname
-резолвится по /etc/hosts

@@ -14,31 +14,14 @@
 
 ##### **Практические примеры** - `#example`
 
-##### **Языки и фреймворки** - `#lang`
+##### **Языки** - `#lang_`
 - Разделы:
-	- C-sharp: `c_sharp`
+	- C-sharp: `csharp`
 	- CSS: `css`
 	- JS: `js`
 	- Kotlin: `kotlin`
 	- Python: `python`
 	- Unity: `unity`
-
-##### **Теоритические сведения** - `#theory`
-- Разделы:
-	- Базы данных: `database`
-	- Информационная безопасность: `i_security`
-	- Инфраструктура: `enterprice`
-	- Машинное обучение: `ml`
-	- Менеджмент: `management`
-	- Программирование: `dev`
-	- Проектирование: `sys_design`
-	- Развертывание: `deploy`
-	- Тестирование: `testing`
-	- Big Data: `bigdata`
-	- Blockchain: `blockchain`
-	- Computer Science: `c_science`
-	- Decision Support Systems: `dss`
-
 ##### **Базы данных** - `#db`
 - Разделы:
 	- Cassandra: `cassandra`
@@ -61,7 +44,7 @@
 	- Web Servers: `web_server`
 
 ---
-### Инструкция по поиску в **Obsidian**
+## Инструкция по поиску в **Obsidian**
 
 - **Базовые команды**  
 	- `слово` – поиск файлов, содержащих "слово".  

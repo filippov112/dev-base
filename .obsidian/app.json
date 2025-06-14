@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "heap/_files",
+  "attachmentFolderPath": "./",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "trashOption": "system",
@@ -9,11 +9,7 @@
   "useMarkdownLinks": true,
   "spellcheck": false,
   "livePreview": false,
-  "userIgnoreFilters": [
-    "heap/_files/",
-    "heap/_TEMPLATES/",
-    "temp/"
-  ],
+  "userIgnoreFilters": null,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "includeName": true,
